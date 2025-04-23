@@ -1,0 +1,5 @@
+Procedure Record ID,Provider ID,Patient ID,Location ID,Date of Service,Procedure Code,Procedure Description,Diagnosis Code,Diagnosis Description,Duration (Minutes),Time Units,Modifiers,ASA Physical Status Class,Referring Doctor Name/Number
+PR001,D001,P001,L001,2023-06-10,A1234,Comprehensive General Checkup,Z00.00,General adult medical examination,45,3,,1,
+PR002,D001,P001,L001,2023-08-15,B2345,Blood Test - Complete Blood Count,Z01.89,Encounter for other specified special examinations,15,1,,1,
+PR003,D002,P001,L002,2024-01-22,C3456,Chest X-Ray,R05,Cough,30,2,,2,
+PR004,D003,P002,L003,2023-11-05,D4567,Dental Cleaning,Z01.20,Encounter for dental examination and cleaning,60,4,,1,D001
