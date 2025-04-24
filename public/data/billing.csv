@@ -1,0 +1,5 @@
+Invoice / Claim ID,Procedure Record ID,Date Billed / Claim Submit Date,Billed Amount,Medical Aid Tariff,MBT Percentage,Amount Paid - Medical Aid,Date Paid - Medical Aid,Patient Portion,Amount Paid - Patient,Date Paid - Patient,Outstanding Amount,Rejection Code / Reason,Write-off Amount,Write-off Reason,Payment Method
+INV001,PR001,2023-06-11,250.00,200.00,80,160.00,2023-06-20,90.00,90.00,2023-06-15,0.00,,,0.00,,Credit Card
+INV002,PR002,2023-08-15,85.50,85.50,100,85.50,2023-08-25,0.00,0.00,,0.00,,,0.00,,Medical Aid
+INV003,PR003,2024-01-23,175.75,150.00,75,112.50,2024-02-10,63.25,0.00,,63.25,,,0.00,,Pending
+INV004,PR004,2023-11-05,120.00,90.00,75,67.50,2023-11-15,52.50,52.50,2023-11-06,0.00,,,0.00,,Debit Card
